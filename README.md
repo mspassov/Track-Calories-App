@@ -7,6 +7,7 @@ The Track Calories (Trak Kalories) web app allows users to set a daily calorie l
 - Set calorie limit, and reset day
 - Add food and corresponding calories
 - Add workouts and corresponding calories burned
+- Remove any item that is no longer needed
 - Dashboard with breakdown of calorie intake, progree, limit, etc.
 - Filter items created
 
